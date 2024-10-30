@@ -1,0 +1,1 @@
+En el Dashboard se muestran las ventas por region volumen total de ventas asi como las ciudades donde tiene precensia, por otro lado y para tener una informacion mayormente digerible se agregan distintos filtros. 
